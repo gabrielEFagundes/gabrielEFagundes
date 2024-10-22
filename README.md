@@ -12,9 +12,6 @@ Oi!
 
 ✅ Conheço e sei bastante de C e Portugol.
 
-👓 Estou aprendendendo Java, JS, CSS e HTML.
+🤓 Estou aprendendendo Java, JS, CSS e HTML.
 
 😸 Pretendo aprender Pyton e Ruby.
-
-// -----
-
