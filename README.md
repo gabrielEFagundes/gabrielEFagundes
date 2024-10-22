@@ -14,4 +14,4 @@ Oi!
 
 🤓 Estou aprendendendo Java, JS, CSS e HTML.
 
-😸 Pretendo aprender Pyton e Ruby.
+😸 Pretendo aprender Python e Ruby.
