@@ -1,6 +1,6 @@
 Oi!
 
-👀 Então aqui estou eu, no GitHub! Me chamo Gabriel e sou um estudante de desenvolvimento de sistemas.
+👀 Me chamo Gabriel e sou um estudante de desenvolvimento de sistemas.
 
 💻 Minhas UCs favoritas são, definitivamente, eletroeletrônica, lógica de programação e web design UI/UX.
 
