@@ -6,7 +6,7 @@ Oi!
 
 👌 Tenho um pouco de conhecimento em arduíno e em programação em blocos.
 
-![c](https://github.com/user-attachments/assets/025c2e87-3553-4b17-9ec6-bd6e0da1b94e) Conheço a sintaxe básica (ponteiros, funções) em C
+![c](https://github.com/user-attachments/assets/025c2e87-3553-4b17-9ec6-bd6e0da1b94elength=1) Conheço a sintaxe básica (ponteiros, funções) em C
 
 🤓 Estou aprendendendo Java, JS, CSS e HTML.
 
