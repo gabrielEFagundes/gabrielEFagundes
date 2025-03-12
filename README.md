@@ -29,4 +29,4 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![Portugol](https://img.shields.io/badge/Portugol-00589C?style=for-the-badge&logo=code&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![MySql](https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=mysql&logoColor=white)   
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
