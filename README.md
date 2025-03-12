@@ -15,3 +15,7 @@ Oi!
 🤓 Estou aprendendendo Java, JS, CSS e HTML.
 
 😸 Pretendo aprender Python e Ruby.
+
+//
+
+![Java](https://img.shields.io/badge/Java-%E2%98%95%20%E2%9C%94-brightgreen)
