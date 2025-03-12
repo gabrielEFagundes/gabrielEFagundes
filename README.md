@@ -1,4 +1,4 @@
-\tOi!
+👋 Oi!
 
 👀 Me chamo Gabriel e sou um estudante de desenvolvimento de sistemas, pretendo continuar na área por muito tempo.
 
