@@ -30,5 +30,6 @@
 ![Portugol](https://img.shields.io/badge/Portugol-00589C?style=for-the-badge&logo=code&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Portugol Studio](https://img.shields.io/badge/Portugol%20Studio-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Portugol Studio](https://img.shields.io/badge/Portugol%20Studio-007ACC?style=for-the-badge&logo=<URL_DA_IMAGEM>&logoColor=white)
+
 
