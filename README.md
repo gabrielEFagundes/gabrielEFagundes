@@ -18,4 +18,4 @@ Oi!
 
 //
 
-![Java](https://img.shields.io/badge/Java-%E2%98%95%20%E2%9C%94-brightgreen)
+![Java](https://img.shields.io/badge/Java-FFF%20%F0%9F%92%BB-brightgreen?style=for-the-badge&logo=java&logoColor=white)
