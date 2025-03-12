@@ -1,4 +1,4 @@
-Oi!
+\tOi!
 
 👀 Me chamo Gabriel e sou um estudante de desenvolvimento de sistemas, pretendo continuar na área por muito tempo.
 
@@ -6,13 +6,15 @@ Oi!
 
 👌 Tenho um pouco de conhecimento em arduíno e em programação em blocos.
 
-![c](https://github.com/user-attachments/assets/025c2e87-3553-4b17-9ec6-bd6e0da1b94elength=1) Conheço a sintaxe básica (ponteiros, funções) em C
+✅ Conheço a sintaxe básica (ponteiros, funções) em C
 
-🤓 Estou aprendendendo Java, JS, CSS e HTML.
+🤓 Estou aprendendendo Java e Python.
 
-😸 Pretendo aprender Python e Ruby.
+🫡 Comecei na área de automação com Jupyter Notebook e Anaconda.
 
-//
+😸 Pretendo aprender Ruby e C#.
+
+// -----
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
