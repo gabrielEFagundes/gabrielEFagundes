@@ -6,9 +6,9 @@
 
 👌 Tenho um pouco de conhecimento em arduíno e em programação em blocos.
 
-✅ Conheço a sintaxe básica (ponteiros, funções) em C
+✅ Conheço a sintaxe básica (ponteiros, funções) em C.
 
-🧑‍💻 Vi HTML e JavaScript
+🧑‍💻 Vi HTML e JavaScript.
 
 🤓 Estou aprendendendo Java e Python.
 
