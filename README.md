@@ -19,3 +19,4 @@ Oi!
 //
 
 ![Java](https://img.shields.io/badge/Java-FFF%20%F0%9F%92%BB-brightgreen?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-FFFFFF%20%F0%9F%92%BB-007396?style=for-the-badge&logo=c&logoColor=white)
