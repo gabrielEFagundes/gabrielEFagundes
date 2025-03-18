@@ -1,6 +1,6 @@
 👋 Oi!
 
-👀 Me chamo Gabriel e sou um estudante e aprendiz de desenvolvimento de sistemas, pretendo continuar na área por muito tempo.
+👀 Me chamo Gabriel e sou um estudante e aprendiz de desenvolvimento de sistemas, pretendo seguir na área.
 
 ***
 
@@ -12,9 +12,7 @@
 
 🤓 Estou aprendendendo Java e Python.
 
-🫡 Comecei na área de automação e Data Science com Jupyter Notebook e Anaconda.
-
-😸 Pretendo aprender Ruby e C#.
+😁 Gosto da área de Automação e Data Science, com a Engenharia de Software.
 
 ***
 
@@ -22,6 +20,7 @@
 > -Einstein, Albert.
 
 ***
+Tecnologias já estudadas por mim:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
