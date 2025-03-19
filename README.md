@@ -3,14 +3,9 @@
 👀 Me chamo Gabriel e sou um estudante e aprendiz de desenvolvimento de sistemas, pretendo seguir na área.
 
 ***
+✅ Já sei a lógica da programação.
 
-👌 Tenho um pouco de conhecimento em arduíno e em programação em blocos.
-
-✅ Conheço a sintaxe básica (ponteiros, funções) em C.
-
-🧑‍💻 Vi HTML e JavaScript.
-
-🤓 Estou aprendendendo Java e Python.
+🤓 Estou aprendendendo Java e Python (pretendo começar projetinhos em breve :]).
 
 😁 Gosto da área de Automação e Data Science, com a Engenharia de Software.
 
