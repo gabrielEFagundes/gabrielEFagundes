@@ -4,7 +4,7 @@
 ```java
 public class Person {
 
-    // Attributes
+    // My Person Methods
 
     private String name = "Gabriel Ehrat Fagundes";
     private int age = 17;
