@@ -14,7 +14,8 @@ public class Person {
     private String tools = "Eclipse, IntelliJ, PyCharm, Anaconda, Jupyter Notebook";
     private String otherSkills = "Raciocínio lógico, 
                                   Montagem e manutenção de computadores,
-                                  Resiliencia mesmo com dor,
+                                  Advanced english (writing),
+                                  Good english (hearing and speaking),
                                   Sonho grande";
 
 };
