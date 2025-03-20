@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5dd9e0cd-2de4-4b73-8dea-07a44f46937a)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/146a8445-385f-42a3-bf47-1cb3fed75c52)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F716&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 ***
