@@ -1,11 +1,23 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F716&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 ***
-✅ Já sei a lógica da programação.
+public class Person {
 
-🤓 Estou aprendendendo Java e Python (pretendo começar projetinhos em breve :]).
+    // Attributes
 
-😁 Gosto da área de Automação e Data Science, com a Engenharia de Software.
+    private String name = "Gabriel Ehrat Fagundes";
+    private int age = 17;
+    private String primaryProfession = "Aprendiz de Desenvolvimento de Sistemas";
+    private String careerGoal = "Dev Full Stack";
+    private String studying = "Desenvolvimento de Sistemas";
+    private String learningLanguages = "Java, Python";
+    private String tools = "Eclipse, IntelliJ, PyCharm, Anaconda, Jupyter Notebook";
+    private String otherSkills = "Raciocínio lógico, 
+                                  Montagem e manutenção de computadores,
+                                  Resiliencia mesmo com dor,
+                                  Sonho grande";
 
+};
 ***
 
 > "Tornou-se aparentemente óbvio que a nossa tecnologia excedeu a nossa humanidade."
