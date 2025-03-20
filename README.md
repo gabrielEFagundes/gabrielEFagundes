@@ -1,5 +1,4 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/146a8445-385f-42a3-bf47-1cb3fed75c52)
-
 ***
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=7663FF&vCenter=true&width=435&lines=Opa%2C+bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 ***
@@ -19,7 +18,8 @@ public class Person {
                                   Montagem e manutenção de computadores,
                                   Advanced english (writing),
                                   Good english (hearing and speaking),
-                                  Sonho grande";
+                                  Sonho grande,
+                                  Noção de UI/UX e Design geral";
 
 };
 ```
@@ -39,4 +39,3 @@ Tecnologias já estudadas por mim:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
