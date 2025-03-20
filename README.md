@@ -1,6 +1,4 @@
-👋 Oi!
-
-👀 Me chamo Gabriel e sou um estudante e aprendiz de desenvolvimento de sistemas, pretendo seguir na área.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F716&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 
 ***
 ✅ Já sei a lógica da programação.
