@@ -1,3 +1,5 @@
+![topper](https://github.com/user-attachments/assets/dabf7d9c-4560-4694-8ef8-d9f262ed07e6)
+***
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/146a8445-385f-42a3-bf47-1cb3fed75c52)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=7663FF&vCenter=true&width=435&lines=Opa%2C+bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
