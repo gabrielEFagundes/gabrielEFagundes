@@ -2,6 +2,7 @@
 <style>
 svg {
   width: 100%;
+  heitht: 150%;
   position: fixed;
   top: -1px;
   transform: rotate(360deg);
