@@ -21,7 +21,8 @@ public class Person {
                                   Advanced english (writing),
                                   Good english (hearing and speaking),
                                   Sonho grande,
-                                  Noção de UI/UX e Design geral";
+                                  Noção de UI/UX e Design geral,
+                                  Gosto de fazer 'malwares' como hobbie";
 
 };
 ```
