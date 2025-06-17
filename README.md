@@ -2,7 +2,10 @@
 ---
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/146a8445-385f-42a3-bf47-1cb3fed75c52)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=7663FF&vCenter=true&width=435&lines=Opa%2C+bem-vindo+ao+meu+GitHub!;Me+chamo+Gabriel!;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Proggy&size=25&duration=2000&pause=1000&color=F7C08C&center=true&vCenter=true&width=435&height=100&lines=Opa!+Bem-vindo+ao+meu+Github!;Meu+nome+%C3%A9+Gabriel.;Sou+apaixonado+pela+programa%C3%A7%C3%A3o.;Coffee+and+Coding+for+Life.">
+</div>
+
 ---
 ```java
 public class Person {
@@ -28,11 +31,13 @@ public class Person {
 ```
 ***
 
-># "Tornou-se aparentemente óbvio que a nossa tecnologia excedeu a nossa humanidade."
-> -Einstein, Albert.
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielEFagundes&show_icons=true&theme=ambient_gradient&bg_color=80,02159B,F2A673" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielEFagundes&layout=compact&theme=ambient_gradient&bg_color=100,02159B,F2A673" alt="Top Langs" />
+</div>
 
 ***
-Tecnologias já estudadas por mim:
+
 <p align="center">
   <!-- Linha 1: Linguagens principais -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
