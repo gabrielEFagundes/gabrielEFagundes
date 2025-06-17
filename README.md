@@ -32,8 +32,8 @@ public class Person {
 ***
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielEFagundes&show_icons=true&theme=ambient_gradient&bg_color=80,02159B,F2A673" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielEFagundes&layout=compact&theme=ambient_gradient&bg_color=100,02159B,F2A673" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielEFagundes&show_icons=true&show=prs_merged&theme=ambient_gradient&bg_color=80,02159B,F2A673" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielEFagundes&layout=donut&theme=ambient_gradient&bg_color=100,02159B,F2A673" alt="Top Langs" width="357"/>
 </div>
 
 ***
