@@ -36,7 +36,7 @@ public class Person {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielEFagundes&layout=donut&theme=ambient_gradient&bg_color=100,02159B,F2A673" alt="Top Langs" width="357"/>
 </div>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=gabrielEFagundes&theme=ambient-gradient&exclude_days=Sun&background=80%2C02159B%2CF2A673&border=EBEBEB" alt="Streak">
+    <img src="https://github-readme-streak-stats-omega-gray.vercel.app?user=gabrielEFagundes&theme=ambient-gradient&exclude_days=Sun&background=80%2C02159B%2CF2A673&border=EBEBEB">
 </div>
 
 ***
