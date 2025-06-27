@@ -46,8 +46,8 @@ public class Person {
 ***
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm,windows,linux" width="600">
-    <img src="https://skillicons.dev/icons?i=git,blender,robloxstudio" width="114">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm" width="600">
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,blender,robloxstudio" width="211">
 </p>
 
 ![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
