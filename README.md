@@ -46,8 +46,26 @@ public class Person {
 ***
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm" width="600">
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,blender,robloxstudio" width="211">
+    <!--<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm,windows,linux,git,blender,robloxstudio" width="600">-->
+    <img src="https://skillicons.dev/icons?i=java" width="40">
+    <img src="https://skillicons.dev/icons?i=python" width="40">
+    <img src="https://skillicons.dev/icons?i=c" width="40">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40">
+    <img src="https://skillicons.dev/icons?i=cs" width="40">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="40">
+    <img src="https://skillicons.dev/icons?i=html" width="40">
+    <img src="https://skillicons.dev/icons?i=css" width="40">
+    <img src="https://skillicons.dev/icons?i=js" width="40">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="40">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40">
+    <img src="https://skillicons.dev/icons?i=eclipse" width="40">
+    <img src="https://skillicons.dev/icons?i=pycharm" width="40">
+    <img src="https://skillicons.dev/icons?i=windows" width="40">
+    <img src="https://skillicons.dev/icons?i=linux" width="40">
+    <img src="https://skillicons.dev/icons?i=git" width="40">
+    <img src="https://skillicons.dev/icons?i=blender" width="40">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" width="40">
 </p>
 
 ![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
