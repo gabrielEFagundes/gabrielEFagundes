@@ -21,25 +21,25 @@
 
 <p align="center">
     <!--<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm,windows,linux,git,blender,robloxstudio" width="600">-->
-    <img src="https://skillicons.dev/icons?i=java" width="30">
-    <img src="https://skillicons.dev/icons?i=python" width="30">
-    <img src="https://skillicons.dev/icons?i=c" width="30">
-    <img src="https://skillicons.dev/icons?i=cpp" width="30">
-    <img src="https://skillicons.dev/icons?i=cs" width="30">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="30">
-    <img src="https://skillicons.dev/icons?i=html" width="30">
-    <img src="https://skillicons.dev/icons?i=css" width="30">
-    <img src="https://skillicons.dev/icons?i=js" width="30">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="30">
-    <img src="https://skillicons.dev/icons?i=mysql" width="30">
-    <img src="https://skillicons.dev/icons?i=vscode" width="30">
-    <img src="https://skillicons.dev/icons?i=eclipse" width="30">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="30">
-    <img src="https://skillicons.dev/icons?i=windows" width="30">
-    <img src="https://skillicons.dev/icons?i=linux" width="30">
-    <img src="https://skillicons.dev/icons?i=git" width="30">
-    <img src="https://skillicons.dev/icons?i=blender" width="30">
-    <img src="https://skillicons.dev/icons?i=robloxstudio" width="30">
+    <img src="https://skillicons.dev/icons?i=java" width="35">
+    <img src="https://skillicons.dev/icons?i=python" width="35">
+    <img src="https://skillicons.dev/icons?i=c" width="35">
+    <img src="https://skillicons.dev/icons?i=cpp" width="35">
+    <img src="https://skillicons.dev/icons?i=cs" width="35">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="35">
+    <img src="https://skillicons.dev/icons?i=html" width="35">
+    <img src="https://skillicons.dev/icons?i=css" width="35">
+    <img src="https://skillicons.dev/icons?i=js" width="35">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="35">
+    <img src="https://skillicons.dev/icons?i=mysql" width="35">
+    <img src="https://skillicons.dev/icons?i=vscode" width="35">
+    <img src="https://skillicons.dev/icons?i=eclipse" width="35">
+    <img src="https://skillicons.dev/icons?i=pycharm" width="35">
+    <img src="https://skillicons.dev/icons?i=windows" width="35">
+    <img src="https://skillicons.dev/icons?i=linux" width="35">
+    <img src="https://skillicons.dev/icons?i=git" width="35">
+    <img src="https://skillicons.dev/icons?i=blender" width="35">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" width="35">
 </p>
 
 #
