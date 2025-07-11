@@ -3,10 +3,8 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/146a8445-385f-42a3-bf47-1cb3fed75c52)
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&pause=1000&color=065acd&center=true&vCenter=true&width=435&lines=Hello%2C+World!;My+name+is+Gabriel.;I'm+a+programming+lover.;Coffee+and+coding+for+life.">
+    <h1>👋 Hello, I'm <a href="https://my-site-ten-taupe.vercel.app/">Gabriel</a>.</h1>
 </div>
-
-#
 
 <img src="/github-metrics.svg" align="right" width="400">
 
