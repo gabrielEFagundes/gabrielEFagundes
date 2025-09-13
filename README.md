@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=css" width="35">
     <img src="https://skillicons.dev/icons?i=js" width="35">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="35">
+    <img src="https://skillicons.dev/icons?i=obsidian" width="35">
     <img src="https://skillicons.dev/icons?i=mysql" width="35">
     <img src="https://skillicons.dev/icons?i=docker" width="35">
     <img src="https://skillicons.dev/icons?i=vscode" width="35">
