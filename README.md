@@ -17,8 +17,7 @@
     <img src="https://skillicons.dev/icons?i=python" width="35">
     <img src="https://skillicons.dev/icons?i=c" width="35">
     <img src="https://skillicons.dev/icons?i=cpp" width="35">
-    <img src="https://skillicons.dev/icons?i=cs" width="35">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="35">
+    <img src="https://skillicons.dev/icons?i=go" width="35">
     <img src="https://skillicons.dev/icons?i=html" width="35">
     <img src="https://skillicons.dev/icons?i=css" width="35">
     <img src="https://skillicons.dev/icons?i=js" width="35">
@@ -32,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=pycharm" width="35">
     <img src="https://skillicons.dev/icons?i=idea" width="35">
     <img src="https://skillicons.dev/icons?i=windows" width="35">
-    <img src="https://skillicons.dev/icons?i=linux" width="35">
+    <img src="https://skillicons.dev/icons?i=arch" width="35">
     <img src="https://skillicons.dev/icons?i=git" width="35">
     <img src="https://skillicons.dev/icons?i=blender" width="35">
     <img src="https://skillicons.dev/icons?i=robloxstudio" width="35">
