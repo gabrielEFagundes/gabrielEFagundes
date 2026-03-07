@@ -33,8 +33,6 @@
     <img src="https://skillicons.dev/icons?i=windows" width="35">
     <img src="https://skillicons.dev/icons?i=arch" width="35">
     <img src="https://skillicons.dev/icons?i=git" width="35">
-    <img src="https://skillicons.dev/icons?i=blender" width="35">
-    <img src="https://skillicons.dev/icons?i=robloxstudio" width="35">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" width="35">
     <img src="https://skillicons.dev/icons?i=firebase" width="35">
 </p>
