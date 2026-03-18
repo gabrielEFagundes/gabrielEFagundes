@@ -21,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=html" width="35">
     <img src="https://skillicons.dev/icons?i=css" width="35">
     <img src="https://skillicons.dev/icons?i=js" width="35">
+    <img src="https://skillicons.dev/icons?i=ts" width="35">
     <img src="https://skillicons.dev/icons?i=tailwindcss" width="35">
     <img src="https://skillicons.dev/icons?i=obsidian" width="35">
     <img src="https://skillicons.dev/icons?i=mysql" width="35">
