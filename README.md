@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm <a href="https://my-site-ten-taupe.vercel.app/">Gabriel</a>.</h1>
+<h1 align="center">👋 Hello, I'm <a href="https://gabrielEFagundes.github.io/home">Gabriel</a>.</h1>
 
 <img src="/github-metrics.svg" align="right" width="400">
 
