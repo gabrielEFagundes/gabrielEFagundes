@@ -29,7 +29,6 @@
     <img src="https://skillicons.dev/icons?i=maven" width="35">
     <img src="https://skillicons.dev/icons?i=vscode" width="35">
     <img src="https://skillicons.dev/icons?i=eclipse" width="35">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="35">
     <img src="https://skillicons.dev/icons?i=idea" width="35">
     <img src="https://skillicons.dev/icons?i=windows" width="35">
     <img src="https://skillicons.dev/icons?i=arch" width="35">
