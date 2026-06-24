@@ -19,3 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_code: yes
           plugin_code_languages: javascript, typescript, python, go, java, c, csharp, c++
+          plugin_code_load: 400
+          plugin_code_days: 30
+          plugin_code_lines: 12
