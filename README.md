@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm <a href="https://gabrielEFagundes.github.io/home">Gabriel</a>.</h1>
+<div align="center">
+    <h1>👋 Hello, I'm <a href="https://gabrielEFagundes.github.io/home">Gabriel</a>.</h1>
+</div>
 
 <img src="/github-metrics.svg" align="right" width="400">
 
@@ -36,3 +38,9 @@
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" width="35">
     <img src="https://skillicons.dev/icons?i=firebase" width="35">
 </p>
+
+<div align="center">
+    <a href="https://github.com/GabsArchive">
+        <img src="https://img.shields.io/badge/my%20archive-5600FF?logo=github">
+    </a>
+</div>
