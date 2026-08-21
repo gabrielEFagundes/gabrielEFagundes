@@ -16,27 +16,24 @@
 <p align="center">
     <!--<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm,windows,linux,git,blender,robloxstudio" width="600">-->
     <img src="https://skillicons.dev/icons?i=java" width="35">
-    <img src="https://skillicons.dev/icons?i=python" width="35">
+    <img src="https://skillicons.dev/icons?i=spring" width="35">
+    <img src="https://skillicons.dev/icons?i=cs" width="35">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="35">
     <img src="https://skillicons.dev/icons?i=c" width="35">
     <img src="https://skillicons.dev/icons?i=cpp" width="35">
     <img src="https://skillicons.dev/icons?i=go" width="35">
-    <img src="https://skillicons.dev/icons?i=html" width="35">
-    <img src="https://skillicons.dev/icons?i=css" width="35">
-    <img src="https://skillicons.dev/icons?i=js" width="35">
+    <img src="https://skillicons.dev/icons?i=rust" width="35">
     <img src="https://skillicons.dev/icons?i=ts" width="35">
+    <img src="https://skillicons.dev/icons?i=next" width="35">
+    <img src="https://skillicons.dev/icons?i=angular" width="35">
     <img src="https://skillicons.dev/icons?i=tailwindcss" width="35">
-    <img src="https://skillicons.dev/icons?i=obsidian" width="35">
     <img src="https://skillicons.dev/icons?i=mysql" width="35">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="35">
     <img src="https://skillicons.dev/icons?i=docker" width="35">
-    <img src="https://skillicons.dev/icons?i=maven" width="35">
-    <img src="https://skillicons.dev/icons?i=vscode" width="35">
-    <img src="https://skillicons.dev/icons?i=eclipse" width="35">
-    <img src="https://skillicons.dev/icons?i=idea" width="35">
     <img src="https://skillicons.dev/icons?i=windows" width="35">
     <img src="https://skillicons.dev/icons?i=arch" width="35">
+    <img src="https://skillicons.dev/icons?i=obsidian" width="35">
     <img src="https://skillicons.dev/icons?i=git" width="35">
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio" width="35">
-    <img src="https://skillicons.dev/icons?i=firebase" width="35">
 </p>
 
 <div align="center">
